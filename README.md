@@ -8,6 +8,9 @@ This contains everything you need to run your app locally.
 
 View your app in AI Studio: https://ai.studio/apps/647fb6c3-0b71-40d2-b68f-bcb20b3a6144
 
+## A high level architecture diagram
+![High Level Architecture Diagram Images](src/images/high%20level%20architecture%20diagram.png)
+
 ## Run Locally
 
 **Prerequisites:**  Node.js
