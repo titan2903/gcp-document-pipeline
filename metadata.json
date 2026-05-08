@@ -1,0 +1,6 @@
+{
+  "name": "Cloud Document Processing Pipeline UI",
+  "description": "Interactive architecture diagram and code generator for a serverless event-driven document processing pipeline on Google Cloud.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
